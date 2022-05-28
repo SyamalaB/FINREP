@@ -7,4 +7,4 @@ This Repository contains three branches
 
 2) Parentheses_Removed : The input text is preprocessed by removing the newline character, parenthesis and the text present within parenthesis. Duplicate entries and text with word count less than 7 are removed after text preprocesing.
 
-3) Stopwords_Removed : The input text is preprocessed by removing certain stop-words, the newline character, parenthesis and the text present within parenthesis. Duplicate entries and text with word count less than 7 are removed after text preprocesing. 
+3)Manual_Stopwords_Removed : The input text is preprocessed by removing certain stop-words, the newline character, parenthesis and the text present within parenthesis. Duplicate entries and text with word count less than 7 are removed after text preprocesing. 
